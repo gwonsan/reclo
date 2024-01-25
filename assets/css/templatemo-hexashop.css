@@ -1923,6 +1923,15 @@ About Us Page
   background-repeat: no-repeat;
 }
 
+.about-page-heading2 {
+  margin-top: 160px;
+  margin-bottom: 30px;
+  background-image: url(../images/donate-baner.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .about-us {
   margin-top: 80px;
 }
